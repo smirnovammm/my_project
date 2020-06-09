@@ -1,0 +1,10 @@
+C:\Users\smari\source\repos\kursovaya\kursovaya\bin\Debug\kursovaya.exe.config
+C:\Users\smari\source\repos\kursovaya\kursovaya\bin\Debug\kursovaya.exe
+C:\Users\smari\source\repos\kursovaya\kursovaya\bin\Debug\kursovaya.pdb
+C:\Users\smari\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.csprojAssemblyReference.cache
+C:\Users\smari\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.Form1.resources
+C:\Users\smari\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.Properties.Resources.resources
+C:\Users\smari\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.GenerateResource.cache
+C:\Users\smari\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\smari\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.exe
+C:\Users\smari\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.pdb
